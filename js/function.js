@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function () {
 // -----ここまで-------------------------------
 
 
-// // -----jQueryの記述---------------------------
+// // -----jQuery ver---------------------------
 // $(function () {
 
 //   //ビューポートの高さ
